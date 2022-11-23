@@ -6,7 +6,9 @@ public class Customer extends Bank {
     int accountNumber;
 
     //Constructor
-    public Customer(){}
+    public Customer(){
+
+    }
 
     //Methods
 

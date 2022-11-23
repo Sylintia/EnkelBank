@@ -5,10 +5,11 @@ public class Account extends Bank{
     double balance;
 
     //Constructors
-    public Account(){}
+    public Account(){
+        accountNumber =
+    }
 
     //Methods
-
 
     //Getters / Setters
 

@@ -1,7 +1,7 @@
 public class SavingsAccount extends Account {
 
     //Attributes
-    double intrest;
+    double interest;
 
     //Constructors
     public SavingsAccount(){}

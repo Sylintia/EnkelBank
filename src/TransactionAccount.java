@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class TransactionAccount extends Account {
 
     //Attributes
-    int LatestTransaction;
+    int latestTransaction;
     ArrayList<Integer> transactions = new ArrayList<>();
 
     //Constructors
