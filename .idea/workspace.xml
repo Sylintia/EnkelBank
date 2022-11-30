@@ -7,8 +7,6 @@
       <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TransactionAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TransactionAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,9 @@
       <workItem from="1668417472092" duration="2726000" />
       <workItem from="1668602657063" duration="4350000" />
       <workItem from="1669021057328" duration="2961000" />
-      <workItem from="1669207902843" duration="2767000" />
+      <workItem from="1669207902843" duration="3642000" />
+      <workItem from="1669625960877" duration="2563000" />
+      <workItem from="1669812552521" duration="2546000" />
     </task>
     <task id="LOCAL-00001" summary="hej">
       <created>1668606903842</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669023685076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hej">
+      <created>1669211693561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669211693561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -51,7 +51,10 @@ public class Bank {
     }
 
     //Methods
-
+private void Customer(Customer Owner){
+        myCustomer= new Customer();
+        customers.add(myCustomer);
+}
 
     //Getters / Setters
 
